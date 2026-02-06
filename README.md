@@ -18,5 +18,5 @@ This project involves building an executive-ready BI dashboard to analyze the sa
 * `insights_task13.txt`: A summary of the key findings.
 * `Global_Superstore2 (1).csv`: The dataset used for analysis.
 
-## 📸 Dashboard Screenshot
+## 📸 Dashboard Screenshot 
 <img width="1120" height="632" alt="Screenshot 2026-02-06 230243" src="https://github.com/user-attachments/assets/e0d67439-1a27-40a9-a73c-081c1f5e4765" />
